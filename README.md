@@ -6,10 +6,6 @@
 ## About
 bamazon is a command-line Node application that uses a MySQL database to simulate a storefront and customer shopping cart
 
-  - ***Spotify*** - track-search, Node specific version of API
-  - ***BandsInTown*** - concert search by artist
-  - ***OMBD*** - movie database search by title
-
 ## How to use
 Currently only the customer configuration is set up, so type the following into the console:
 ```
